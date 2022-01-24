@@ -1,0 +1,18 @@
+.alignCenter{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.title{
+   color: #7269FF;
+}
+
+.home-link {
+   transition: .6s ease-in-out;
+   opacity: 0.6;
+}
+.home-link:hover{
+opacity: 1;
+}
